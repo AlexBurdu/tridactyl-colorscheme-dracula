@@ -4,6 +4,10 @@
 
 ## Install
 
+```
+:colourscheme --url https://raw.githubusercontent.com/AlexBurdu/tridactyl-colorscheme-dracula//main/dracula.css dracula
+```
+
 All instructions can be found at [draculatheme.com/tridactyl](https://draculatheme.com/tridactyl).
 
 ## Team
