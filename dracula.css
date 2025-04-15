@@ -106,10 +106,7 @@
 
 #completions table tr td.prefix,
 #completions table tr td.privatewindow,
-#completions table tr td.container,
-#completions table tr td.icon {
-  display: none;
-}
+#completions table tr td.container
 
 #completions .BufferCompletionSource table {
   width: unset;
